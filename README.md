@@ -1,1 +1,4 @@
 # CS370
+
+In this program, I wrote the portion that was responsible for the Q-Training algorithm, which allowed the pirate to learn and move around the map. \
+Computer Scientists are always discovering new and more effecient ways to solve a problem. This program is a great showcase of that, instead of brute forcing a solution evey game, it learns, and adapts. As a oomputer Scientist, it is crucial to truly understand the problem, what steps have already been taken to try and solve it. Once you can see the work of those before you, then you can truly add to the work that has already been done. My duty to the end user is to not create anything that will make their lives more diffuclt. An example is releasing software I know has a major bug were they could lose personal sensitive information. My duty to the organization is to complete the job I am being paid to do, at the best of my ability, to help the organiztion profit and thrive.
